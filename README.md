@@ -4,11 +4,10 @@
 ---
 
 ## 🚀 About Me
-```diff
-+ TY Student at KJ Somaiya College
-+ Passionate Developer | DSA Practitioner | AI/ML Enthusiast
-+ Always exploring new tech, from AI to DevOps to Mobile
-```
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Hey!+I'm+Eeshanya+Joshi+%F0%9F%91%8B;Tech+Explorer+%7C+Problem+Solver+%7C+Builder+%F0%9F%9B%A0%EF%B8%8F;Always+learning+and+creating+something+awesome!+%F0%9F%92%BB" alt="Typing SVG" /> </p>
+👨‍🎓 Third-Year Student @ KJ Somaiya College
+💡 Passionate Developer | ⚙️ DSA Enthusiast | 🤖 AI/ML Explorer
+Crafting seamless tech — fuelled by curiosity and bold ideas!
 
 ---
 
@@ -113,15 +112,3 @@
     <img src="https://leetcard.jacoblin.cool/Code__Phoenix?theme=dark&font=Fira+Code" alt="LeetCode Stats"/>
   </a>
 </p>
-
-
----
-
-<style>
-h1, h3 {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-code {
-  font-size: 1.1em;
-}
-</style>
