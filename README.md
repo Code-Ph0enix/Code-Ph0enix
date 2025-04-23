@@ -79,10 +79,15 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-Ph0enix&show_icons=true&theme=tokyonight" alt="Eeshanya's GitHub stats"/>
+</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Code-Ph0enix&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Ph0enix&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Ph0enix&theme=tokyonight" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Ph0enix&layout=compact&theme=tokyonight"/>
+</p>
+<p align="right>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Ph0enix&theme=tokyonight" />
 </p>
 
 ---
