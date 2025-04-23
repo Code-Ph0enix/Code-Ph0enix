@@ -4,7 +4,7 @@
 
 <div align="center">
 
-## 🚀 About Me
+# 🚀 About Me
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-## 💼 Connect With Me
+# 💼 Connect With Me
 
 </div>
 
@@ -48,13 +48,13 @@
 
 <div align="center">
 
-## 🔧 Skills
+# 🔧 Skills
 
 </div>
 
 <div align="center">
 
-### Languages
+## Languages
 
 </div>
 
@@ -71,7 +71,7 @@
 
 <div align="center">
 
-### Frameworks / Technologies
+## Frameworks / Technologies
 
 </div>
 
@@ -87,7 +87,7 @@
 
 <div align="center">
 
-### Developer Tools
+## Developer Tools
 
 </div>
 
@@ -106,7 +106,7 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 </div>
 
@@ -120,7 +120,7 @@
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 </div>
 
@@ -132,7 +132,7 @@
 
 <div align="center">
 
-## 📈 Visitor Count
+# 📈 Visitor Count
 
 </div>
 
@@ -144,7 +144,7 @@
 
 <div align="center">
 
-## 🤖 LeetCode Stats (Live)
+# 🤖 LeetCode Stats (Live)
 
 </div>
 
