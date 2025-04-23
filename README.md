@@ -2,25 +2,17 @@
 
 ---
 
-<div align="center">
-
 # 🚀 About Me
 
-</div>
-
-<h4 align="center">👨‍🎓 Third-Year Student @ KJ Somaiya College</h4> 
-<h4 align="center">💡 Passionate Developer | ⚙️ DSA Enthusiast | 🤖 AI/ML Explorer</h4>
-<h4 align="center">🛠️ Crafting seamless tech — fuelled by curiosity and bold ideas!</h4>
+<h4👨‍🎓 Third-Year Student @ KJ Somaiya College</h4> 
+<h4>💡 Passionate Developer | ⚙️ DSA Enthusiast | 🤖 AI/ML Explorer</h4>
+<h4>🛠️ Crafting seamless tech — fuelled by curiosity and bold ideas!</h4>
 
 ---
 
-<div align="center">
-
 # 💼 Connect With Me
 
-</div>
-
-<p align="center">
+<p align="left">
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/eeshanyajoshi" target="_blank">
@@ -46,19 +38,11 @@
 
 ---
 
-<div align="center">
-
 # 🔧 Skills
-
-</div>
-
-<div align="center">
 
 ## Languages
 
-</div>
-
-<p align="center">
+<p align="left">
   <a href="https://www.java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
   <a href="https://isocpp.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
   <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
@@ -69,13 +53,9 @@
   <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
 </p>
 
-<div align="center">
-
 ## Frameworks / Technologies
 
-</div>
-
-<p align="center">
+<p align="left">
   <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
   <a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/></a>
   <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a>
@@ -85,13 +65,9 @@
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a>
 </p>
 
-<div align="center">
-
 ## Developer Tools
 
-</div>
-
-<p align="center">
+<p align="left">
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
   <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
@@ -104,11 +80,7 @@
 
 ---
 
-<div align="center">
-
 # 📊 GitHub Stats
-
-</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Code-Ph0enix&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
@@ -118,11 +90,7 @@
 
 ---
 
-<div align="center">
-
 # 🏆 GitHub Trophies
-
-</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Code-Ph0enix&theme=gruvbox" />
@@ -130,11 +98,7 @@
 
 ---
 
-<div align="center">
-
 # 📈 Visitor Count
-
-</div>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Code-Ph0enix/count.svg" alt="Visitor Count" />
@@ -142,11 +106,7 @@
 
 ---
 
-<div align="center">
-
 # 🤖 LeetCode Stats (Live)
-
-</div>
 
 <p align="center">
   <a href="https://leetcode.com/u/Code__Phoenix/" target="_blank">
