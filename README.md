@@ -1,8 +1,8 @@
-<p align = "center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Hey!+I'm+Eeshanya+Joshi+%F0%9F%91%8B" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Hey!+I'm+Eeshanya+Joshi+%F0%9F%91%8B" alt="Typing SVG" /> </p>
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
 <h4 align="center">👨‍🎓 Third-Year Student @ KJ Somaiya College</h4> 
 <h4 align="center">💡 Passionate Developer | ⚙️ DSA Enthusiast | 🤖 AI/ML Explorer</h4>
@@ -10,7 +10,7 @@
 
 ---
 
-## 💼 Connect With Me
+<h2 align="center">💼 Connect With Me</h2>
 <p align="center">
 
   <!-- LinkedIn -->
@@ -37,10 +37,10 @@
 
 ---
 
-## 🔧 Skills
+<h2 align="center">🔧 Skills</h2>
 
-### Languages
-<p>
+<h3 align="center">Languages</h3>
+<p align="center">
   <a href="https://www.java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
   <a href="https://isocpp.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
   <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
@@ -51,8 +51,8 @@
   <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
 </p>
 
-### Frameworks / Technologies
-<p>
+<h3 align="center">Frameworks / Technologies</h3>
+<p align="center">
   <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
   <a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/></a>
   <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a>
@@ -62,8 +62,8 @@
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a>
 </p>
 
-### Developer Tools
-<p>
+<h3 align="center">Developer Tools</h3>
+<p align="center">
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
   <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
@@ -72,41 +72,35 @@
   <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
   <a href="https://platform.openai.com/"><img src="https://avatars.githubusercontent.com/u/47227492?s=200&v=4" width="40" height="40"/></a>
   <a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/></a>
-
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Code-Ph0enix&show_icons=true&theme=tokyonight" alt="Eeshanya's GitHub stats"/>
-</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Ph0enix&layout=compact&theme=tokyonight"/>
-</p>
-<p align="right>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Ph0enix&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-Ph0enix&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Ph0enix&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Ph0enix&theme=tokyonight" alt="GitHub Streak" height="150"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Code-Ph0enix&theme=gruvbox" />
 </p>
 
 ---
 
-## 📈 Visitor Count
+<h2 align="center">📈 Visitor Count</h2>
 <p align="center">
   <img src="https://profile-counter.glitch.me/Code-Ph0enix/count.svg" alt="Visitor Count" />
 </p>
 
 ---
 
-## 🤖 LeetCode Stats (Live)
+<h2 align="center">🤖 LeetCode Stats (Live)</h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/Code__Phoenix/" target="_blank">
