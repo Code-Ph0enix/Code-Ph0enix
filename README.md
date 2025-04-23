@@ -1,12 +1,12 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Hey!+I'm+Eeshanya+Joshi+%F0%9F%91%8B;Tech+Explorer+%7C+Problem+Solver+%7C+Builder+%F0%9F%9B%A0%EF%B8%8F;Always+learning+and+creating+something+awesome!+%F0%9F%92%BB" alt="Typing SVG" /> </p>
+<p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Hey!+I'm+Eeshanya+Joshi+%F0%9F%91%8B" alt="Typing SVG" /> </p>
 
 ---
 
 ## 🚀 About Me
 
-<h2 align="left">👨‍🎓 Third-Year Student @ KJ Somaiya College</h2> <br>
-<h2 align="left">💡 Passionate Developer | ⚙️ DSA Enthusiast | 🤖 AI/ML Explorer</h2> <br>
-<h2 align="left">Crafting seamless tech — fuelled by curiosity and bold ideas!</h2>
+<h4 align="left">👨‍🎓 Third-Year Student @ KJ Somaiya College</h4> <br>
+<h4 align="left">💡 Passionate Developer | ⚙️ DSA Enthusiast | 🤖 AI/ML Explorer</h4> <br>
+<h4 align="left">Crafting seamless tech — fuelled by curiosity and bold ideas!</h4>
 
 ---
 
