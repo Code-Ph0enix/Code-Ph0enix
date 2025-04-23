@@ -4,8 +4,8 @@
 
 ## 🚀 About Me
 
-<h4 align="left">👨‍🎓 Third-Year Student @ KJ Somaiya College</h4> <br>
-<h4 align="left">💡 Passionate Developer | ⚙️ DSA Enthusiast | 🤖 AI/ML Explorer</h4> <br>
+<h4 align="left">👨‍🎓 Third-Year Student @ KJ Somaiya College</h4> 
+<h4 align="left">💡 Passionate Developer | ⚙️ DSA Enthusiast | 🤖 AI/ML Explorer</h4>
 <h4 align="left">Crafting seamless tech — fuelled by curiosity and bold ideas!</h4>
 
 ---
