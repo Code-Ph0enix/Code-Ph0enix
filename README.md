@@ -14,18 +14,27 @@
 
 ## 💼 Connect With Me
 <p align="left">
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/eeshanyajoshi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="mailto:eeshanyajoshi@Ggmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <!-- Email -->
+  <a href="mailto:eeshanyajoshi@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40" alt="Email"/>
   </a>
+
+  <!-- Phone -->
   <a href="tel:+918169570762">
-    <img src="https://img.shields.io/badge/Call-Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/455/455705.png" width="40" height="40" alt="Phone"/>
   </a>
-  <a href="https://leetcode.com/eeshanyajoshi/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Code__Phoenix/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/>
   </a>
+
 </p>
 
 ---
@@ -71,27 +80,27 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eeshanyajoshi&show_icons=true&theme=tokyonight" alt="Eeshanya's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-Ph0enix&show_icons=true&theme=tokyonight" alt="Eeshanya's GitHub stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeshanyajoshi&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Ph0enix&layout=compact&theme=tokyonight"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eeshanyajoshi&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Ph0enix&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eeshanyajoshi&theme=gruvbox" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Code-Ph0enix&theme=gruvbox" />
 </p>
 
 ---
 
 ## 📈 Visitor Count
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eeshanyajoshi&style=flat-square&color=blue" alt="visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Code-Ph0enix&style=flat-square&color=blue" alt="visitor counter"/>
 </p>
 
 ---
