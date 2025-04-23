@@ -59,7 +59,7 @@
   <a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/></a>
   <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a>
   <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/></a>
   <a href="https://flutter.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/></a>
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a>
 </p>
@@ -73,7 +73,8 @@
   <a href="https://www.tableau.com/"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40"/></a>
   <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
   <a href="https://platform.openai.com/"><img src="https://avatars.githubusercontent.com/u/47227492?s=200&v=4" width="40" height="40"/></a>
-  <a href="https://powerbi.microsoft.com/"><img src="https://download.logo.wine/logo/Microsoft_Power_BI/Microsoft_Power_BI-Logo.wine.png" width="40" height="40"/></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/></a>
+
 </p>
 
 ---
