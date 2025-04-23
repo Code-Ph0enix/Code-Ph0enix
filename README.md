@@ -4,14 +4,14 @@
 
 ## 🚀 About Me
 
-<h4 align="left">👨‍🎓 Third-Year Student @ KJ Somaiya College</h4> 
-<h4 align="left">💡 Passionate Developer | ⚙️ DSA Enthusiast | 🤖 AI/ML Explorer</h4>
-<h4 align="left">🛠️ Crafting seamless tech — fuelled by curiosity and bold ideas!</h4>
+<h4 align="center">👨‍🎓 Third-Year Student @ KJ Somaiya College</h4> 
+<h4 align="center">💡 Passionate Developer | ⚙️ DSA Enthusiast | 🤖 AI/ML Explorer</h4>
+<h4 align="center">🛠️ Crafting seamless tech — fuelled by curiosity and bold ideas!</h4>
 
 ---
 
 ## 💼 Connect With Me
-<p align="left">
+<p align="center">
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/eeshanyajoshi" target="_blank">
@@ -78,14 +78,11 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Code-Ph0enix&show_icons=true&theme=tokyonight" alt="Eeshanya's GitHub stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Ph0enix&layout=compact&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Ph0enix&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-Ph0enix&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Ph0enix&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Ph0enix&theme=tokyonight" alt="GitHub Streak" height="150"/>
 </p>
 
 ---
@@ -98,7 +95,9 @@
 ---
 
 ## 📈 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/Code-Ph0enix/count.svg)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Code-Ph0enix/count.svg" alt="Visitor Count" />
+</p>
 
 ---
 
