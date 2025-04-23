@@ -104,6 +104,9 @@
 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
 <img src="https://hitwebcounter.com/counter/counter.php?page=20468986&style=0010&nbdigits=6&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>
+![Visitor Count](https://profile-counter.glitch.me/Code-Ph0enix/count.svg)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Code-Ph0enix&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=Code-Ph0enix)
 
 ---
 
