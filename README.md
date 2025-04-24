@@ -4,6 +4,7 @@
 
 # 🚀 About Me
 
+<h3 style="background: linear-gradient(to right, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">🚀 Welcome to My GitHub!</h3>
 <h4>👨‍🎓 Third-Year Student @ KJ Somaiya College</h4> 
 <h4>💡 Passionate Developer | ⚙️ DSA Enthusiast | 🤖 AI/ML Explorer</h4>
 <h4>🛠️ Crafting seamless tech — fuelled by curiosity and bold ideas!</h4>
