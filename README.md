@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey!+I'm+Eeshanya+%F0%9F%91%8B;Final+Year+Student+%7C+Full+Stack+Developer;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F%E2%9E%A1%EF%B8%8F%F0%9F%92%BB" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 
 </div>
 
