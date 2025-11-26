@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1 style="font-family: 'Courier New', monospace; font-size: 3em; color: #00ADB5;">
-  EESHANYA JOSHI
-</h1>
+# ð„ð„ð'ð‡ð€ðð˜ð€ ð‰ðŽð'ð‡ð ˆ
 
 </div>
 
