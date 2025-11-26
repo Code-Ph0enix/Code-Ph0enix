@@ -1,10 +1,11 @@
-<div align="center">
+
 # Eeshanya Joshi
-</div>
+
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00ADB5&center=true&vCenter=true&width=600&height=100&lines=Hey!+I'm+Eeshanya+%F0%9F%91%8B;Final+Year+%7C+Full+Stack+Developer;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F;Building+Products+That+Matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00ADB5&center=true&vCenter=true&width=800&height=100&lines=Hey!+I'm+Eeshanya+%F0%9F%91%8B;Final+Year+%7C+Full+Stack+Developer;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F;Building+Products+That+Matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -28,29 +29,6 @@ const eeshanya = {
     funFact: "I debug with console.log() and I'm not ashamed! 😅"
 };
 ```
-
-<div align="center">
-
-### 🎯 Current Focus
-
-```mermaid
-mindmap
-  root((Eeshanya))
-    Development
-      Full Stack Projects
-      Open Source
-      System Design
-    Learning
-      Advanced DSA
-      Cloud Architecture
-      AI/ML Models
-    Goals
-      500+ LeetCode
-      Build Impactful Products
-      Contribute to OSS
-```
-
-</div>
 
 ---
 
