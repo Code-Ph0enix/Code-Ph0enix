@@ -74,23 +74,52 @@ const eeshanya = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Code-Ph0enix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF" alt="GitHub Stats"/>
+<!-- Fancy cards – use this first. If they still show "Error fetching resource"
+     in the README, scroll down to the fallback version below. -->
 
-  <img width="49%" src="https://streak-stats.demolab.com?user=Code-Ph0enix&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADB5&fire=FF6B6B&currStreakLabel=00ADB5&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak"/>
+<div align="center">
+  <!-- GitHub Stats -->
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Code-Ph0enix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF"
+    alt="GitHub Stats"
+  />
+
+  <!-- GitHub Streak (NEW HOST) -->
+  <img
+    width="49%"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=Code-Ph0enix&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADB5&fire=FF6B6B&currStreakLabel=00ADB5&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E"
+    alt="GitHub Streak"
+  />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Ph0enix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <!-- Top Languages -->
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Ph0enix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&text_color=FFFFFF&langs_count=8"
+    alt="Top Languages"
+  />
 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Code-Ph0enix&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+  <!-- Productive Time -->
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Code-Ph0enix&theme=tokyonight&utcOffset=5.5"
+    alt="Productive Time"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-Ph0enix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ADB5&line=00ADB5&point=FFFFFF&area=true&area_color=00ADB5" width="98%" alt="Contribution Graph"/>
+  <!-- Contribution Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Code-Ph0enix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ADB5&line=00ADB5&point=FFFFFF&area=true&area_color=00ADB5"
+    width="98%"
+    alt="Contribution Graph"
+  />
 </div>
 
 ---
+
 
 
 ## 🏆 Achievements
@@ -206,8 +235,6 @@ graph LR
 ### 💖 Thanks for visiting!
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="100" />
-
-**"The only way to do great work is to love what you do."** - Steve Jobs
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
