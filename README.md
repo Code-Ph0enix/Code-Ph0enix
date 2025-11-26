@@ -76,14 +76,9 @@ const eeshanya = {
 
 <!-- Fancy cards – use this first. If they still show "Error fetching resource"
      in the README, scroll down to the fallback version below. -->
-
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Code-Ph0enix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF&count_private=true&cache_seconds=1800" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Code-Ph0enix&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADB5&fire=FF6B6B&currStreakLabel=00ADB5" />
-
-
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-Ph0enix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF)](https://github.com/Code-Ph0enix)
 
   <!-- GitHub Streak (NEW HOST) -->
   <img
