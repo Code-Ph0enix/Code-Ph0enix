@@ -100,17 +100,6 @@ const eeshanya = {
   />
 
 <div align="center">
-
-### Profile Stats
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-Ph0enix&theme=tokyonight)
-
-**Last Updated:** `2025`
-
-</div>
-
-
-<div align="center">
   <!-- Contribution Graph -->
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Code-Ph0enix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ADB5&line=00ADB5&point=FFFFFF&area=true&area_color=00ADB5"
