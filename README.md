@@ -101,13 +101,16 @@ const eeshanya = {
     alt="Top Languages"
   />
 
-  <!-- Productive Time -->
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Code-Ph0enix&theme=tokyonight&utcOffset=5.5"
-    alt="Productive Time"
-  />
+<div align="center">
+
+### 📊 Profile Stats
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-Ph0enix&theme=tokyonight)
+
+**Last Updated:** `2025`
+
 </div>
+
 
 <div align="center">
   <!-- Contribution Graph -->
@@ -242,12 +245,4 @@ graph LR
 
 ---
 
-<div align="center">
 
-### 📊 Profile Stats
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-Ph0enix&theme=tokyonight)
-
-**Last Updated:** `2024`
-
-</div>
