@@ -16,96 +16,63 @@
 
 ## 🚀 About Me
 
-```typescript
 const eeshanya = {
-    location: "Mumbai, India 🇮🇳",
-    education: "KJ Somaiya College of Engineering 🎓",
-    role: "Full Stack Developer | AI/ML Enthusiast",
-    currentFocus: ["DSA Mastery", "System Design", "AI/ML Projects"],
-    motto: "Code. Break. Fix. Repeat. 🔄",
-    funFact: "I debug with console.log() and I'm not ashamed! 😅"
+location: "Mumbai, India 🇮🇳",
+education: "KJ Somaiya College of Engineering 🎓",
+role: "Full Stack Developer | AI/ML Enthusiast",
+currentFocus: ["DSA Mastery", "System Design", "AI/ML Projects"],
+motto: "Code. Break. Fix. Repeat. 🔄",
+funFact: "I debug with console.log() and I'm not ashamed! 😅"
 };
-```
 
-<div align="center">
+---
 
-### 🎯 Current Focus
+## 🎯 What I'm Working On
 
-```mermaid
 mindmap
-  root((Eeshanya))
-    Development
-      Full Stack Projects
-      Open Source
-      System Design
-    Learning
-      Advanced DSA
-      Cloud Architecture
-      AI/ML Models
-    Goals
-      500+ LeetCode
-      Build Impactful Products
-      Contribute to OSS
-```
+root((Current Focus))
+Full Stack Development
+DSA Mastery
+AI/ML Projects
+System Design
+Learning TensorFlow
+LeetCode Daily
+Building Scalable Apps
 
-</div>
+- Currently learning: **System Design (80%, High)**, **React Advanced (70%, High)**, **Docker & K8s (60%, Medium)**, **AI/ML (50%, Learning)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### Languages: 
+Java, C++, Python, JavaScript, Dart
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+### Frontend:
+React, HTML5, CSS3, TailwindCSS
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Backend:
+NodeJS, Express.js, MongoDB, PostgreSQL
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### Tools & Platforms:
+Git, GitHub, VS Code, Postman, Docker, Figma
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### 📊 Data & Analytics
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-</div>
+### Data & Analytics:
+Tableau, Power BI, MATLAB
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Code-Ph0enix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF&ring_color=00ADB5" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Ph0enix&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADB5&fire=FF6B6B&currStreakLabel=00ADB5&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Code-Ph0enix&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Ph0enix&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Ph0enix&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Code-Ph0enix&theme=tokyonight&utcOffset=5.5" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Ph0enix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Code-Ph0enix&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-Ph0enix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ADB5&line=00ADB5&point=FFFFFF&area=true&area_color=00ADB5" width="98%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-Ph0enix&theme=tokyo-night&hide_border=true" width="98%" />
 </div>
 
 ---
@@ -113,9 +80,7 @@ mindmap
 ## 🏆 Achievements
 
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Code-Ph0enix&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Code-Ph0enix&theme=tokyonight&no-frame=true&column=7" />
 </div>
 
 ---
@@ -123,16 +88,9 @@ mindmap
 ## 💻 LeetCode Stats
 
 <div align="center">
-
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Code__Phoenix?theme=nord&font=Ubuntu&ext=contest)](https://leetcode.com/u/Code__Phoenix/)
-
-### 📈 Problem Solving Journey
-
-![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![DSA](https://img.shields.io/badge/DSA-Daily%20Practice-00ADB5?style=for-the-badge)
-![Contests](https://img.shields.io/badge/Contests-Active-FF6B6B?style=for-the-badge)
-
 </div>
+- **500+ LeetCode Solved**, **DSA Daily Practice**, **Contests: Active**
 
 ---
 
@@ -140,59 +98,13 @@ mindmap
 
 <div align="center">
 
-<a href="https://github.com/Code-Ph0enix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Ph0enix&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF" />
+<!-- Replace YOUR_REPO_1 and YOUR_REPO_2 with real repo names -->
+<a href="https://github.com/Code-Ph0enix/YOUR_REPO_1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Ph0enix&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" />
 </a>
-
-<a href="https://github.com/Code-Ph0enix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Ph0enix&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF" />
+<a href="https://github.com/Code-Ph0enix/YOUR_REPO_2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Ph0enix&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" />
 </a>
-
-</div>
-
----
-
-## 🎯 What I'm Working On
-
-```mermaid
-graph LR
-    A[Current Focus] --> B[Full Stack Development]
-    A --> C[DSA Mastery]
-    A --> D[AI/ML Projects]
-    B --> E[Building Scalable Apps]
-    C --> F[LeetCode Daily]
-    D --> G[Learning TensorFlow]
-    
-    style A fill:#00ADB5,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#1a1a2e,stroke:#00ADB5,stroke-width:2px,color:#fff
-    style C fill:#1a1a2e,stroke:#00ADB5,stroke-width:2px,color:#fff
-    style D fill:#1a1a2e,stroke:#00ADB5,stroke-width:2px,color:#fff
-```
-
-<div align="center">
-
-### 📚 Currently Learning
-
-| Technology | Progress | Priority |
-|------------|----------|----------|
-| System Design | ████████░░ 80% | 🔥 High |
-| React Advanced | ███████░░░ 70% | 🔥 High |
-| Docker & K8s | ██████░░░░ 60% | ⚡ Medium |
-| AI/ML | █████░░░░░ 50% | 🎯 Learning |
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eeshanyajoshi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eeshanyajoshi@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Code__Phoenix/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Code-Ph0enix)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918169570762)
 
 </div>
 
@@ -201,19 +113,8 @@ graph LR
 ## 💭 Random Dev Quote
 
 <div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Code-Ph0enix/Code-Ph0enix/output/github-contribution-grid-snake-dark.svg)
-
+<!-- Keep only ONE quote section -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
@@ -222,22 +123,7 @@ graph LR
 
 ### 💖 Thanks for visiting!
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="100" />
-
-**"The only way to do great work is to love what you do."** - Steve Jobs
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
 
 </div>
 
----
-
-<div align="center">
-
-### 📊 Profile Stats
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-Ph0enix&theme=tokyonight)
-
-**Last Updated:** `2024`
-
-</div>
