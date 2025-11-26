@@ -1,5 +1,10 @@
+<div align="center">
 
-# Eeshanya Joshi
+<h1 style="font-family: 'Courier New', monospace; font-size: 3em; color: #00ADB5;">
+  EESHANYA JOSHI
+</h1>
+
+</div>
 
 
 <div align="center">
