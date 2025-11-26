@@ -1,8 +1,10 @@
+IMP_GITHUB_README_LATEST_CLAUDE_BACKUP
+
 # 💫 Eeshanya Joshi
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00ADB5&center=true&vCenter=true&width=600&height=100&lines=Hey!+I'm+Eeshanya+👋;Final+Year+%7C+Full+Stack+Developer;Turning+Coffee+into+Code+☕️;Building+Products+That+Matter+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00ADB5&center=true&vCenter=true&width=600&height=100&lines=Hey!+I'm+Eeshanya+%F0%9F%91%8B;Final+Year+%7C+Full+Stack+Developer;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F;Building+Products+That+Matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -21,11 +23,34 @@ const eeshanya = {
     location: "Mumbai, India 🇮🇳",
     education: "KJ Somaiya College of Engineering 🎓",
     role: "Full Stack Developer | AI/ML Enthusiast",
-    currentFocus: ["DSA Mastery", "System Design", "Building Scalable Products"],
+    currentFocus: ["DSA Mastery", "System Design", "AI/ML Projects"],
     motto: "Code. Break. Fix. Repeat. 🔄",
     funFact: "I debug with console.log() and I'm not ashamed! 😅"
 };
 ```
+
+<div align="center">
+
+### 🎯 Current Focus
+
+```mermaid
+mindmap
+  root((Eeshanya))
+    Development
+      Full Stack Projects
+      Open Source
+      System Design
+    Learning
+      Advanced DSA
+      Cloud Architecture
+      AI/ML Models
+    Goals
+      500+ LeetCode
+      Build Impactful Products
+      Contribute to OSS
+```
+
+</div>
 
 ---
 
@@ -46,7 +71,7 @@ const eeshanya = {
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend & Databases
+### ⚙️ Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -72,22 +97,22 @@ const eeshanya = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Code-Ph0enix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF&ring_color=00ADB5&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Code-Ph0enix&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADB5&fire=FF6B6B&currStreakLabel=00ADB5&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E)
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Code-Ph0enix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF&ring_color=00ADB5" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Ph0enix&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADB5&fire=FF6B6B&currStreakLabel=00ADB5&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Code-Ph0enix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&text_color=FFFFFF&langs_count=8)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Code-Ph0enix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ADB5&line=00ADB5&point=FFFFFF&area=true&area_color=00ADB5&height=300)
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Ph0enix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Code-Ph0enix&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-Ph0enix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ADB5&line=00ADB5&point=FFFFFF&area=true&area_color=00ADB5" width="98%" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 Achievements
 
 <div align="center">
 
@@ -103,6 +128,8 @@ const eeshanya = {
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Code__Phoenix?theme=nord&font=Ubuntu&ext=contest)](https://leetcode.com/u/Code__Phoenix/)
 
+### 📈 Problem Solving Journey
+
 ![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![DSA](https://img.shields.io/badge/DSA-Daily%20Practice-00ADB5?style=for-the-badge)
 ![Contests](https://img.shields.io/badge/Contests-Active-FF6B6B?style=for-the-badge)
@@ -111,39 +138,49 @@ const eeshanya = {
 
 ---
 
-## 🎯 Current Focus & Learning Path
+## 📌 Pinned Projects
 
 <div align="center">
 
+<a href="https://github.com/Code-Ph0enix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Ph0enix&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/Code-Ph0enix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Ph0enix&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF" />
+</a>
+
+</div>
+
+---
+
+## 🎯 What I'm Working On
+
 ```mermaid
-mindmap
-  root((2024 Goals))
-    Development
-      Full Stack Mastery
-      System Design
-      Cloud Architecture
-    Problem Solving
-      500+ LeetCode
-      Daily DSA Practice
-      Contest Participation
-    Learning
-      Docker & Kubernetes
-      Advanced React
-      AI/ML Integration
-    Impact
-      Open Source Contributions
-      Build Real Products
-      Help Community
+graph LR
+    A[Current Focus] --> B[Full Stack Development]
+    A --> C[DSA Mastery]
+    A --> D[AI/ML Projects]
+    B --> E[Building Scalable Apps]
+    C --> F[LeetCode Daily]
+    D --> G[Learning TensorFlow]
+    
+    style A fill:#00ADB5,stroke:#fff,stroke-width:2px,color:#fff
+    style B fill:#1a1a2e,stroke:#00ADB5,stroke-width:2px,color:#fff
+    style C fill:#1a1a2e,stroke:#00ADB5,stroke-width:2px,color:#fff
+    style D fill:#1a1a2e,stroke:#00ADB5,stroke-width:2px,color:#fff
 ```
 
-### 📚 Learning Progress
+<div align="center">
 
-| Technology | Progress | Status |
-|------------|----------|--------|
-| System Design | ████████░░ 80% | 🔥 Active |
-| React Advanced | ███████░░░ 70% | 🔥 Active |
-| Docker & K8s | ██████░░░░ 60% | ⚡ Learning |
-| AI/ML | █████░░░░░ 50% | 🎯 Exploring |
+### 📚 Currently Learning
+
+| Technology | Progress | Priority |
+|------------|----------|----------|
+| System Design | ████████░░ 80% | 🔥 High |
+| React Advanced | ███████░░░ 70% | 🔥 High |
+| Docker & K8s | ██████░░░░ 60% | ⚡ Medium |
+| AI/ML | █████░░░░░ 50% | 🎯 Learning |
 
 </div>
 
@@ -173,7 +210,7 @@ mindmap
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -185,14 +222,24 @@ mindmap
 
 <div align="center">
 
-### 💖 Thanks for visiting my profile!
+### 💖 Thanks for visiting!
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="100" />
+
+**"The only way to do great work is to love what you do."** - Steve Jobs
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-**"First, solve the problem. Then, write the code."** – John Johnson
+</div>
 
-![Wave](https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png)
+---
 
-**Last Updated:** `November 2024` | Made with ❤️ and ☕
+<div align="center">
+
+### 📊 Profile Stats
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-Ph0enix&theme=tokyonight)
+
+**Last Updated:** `2024`
 
 </div>
