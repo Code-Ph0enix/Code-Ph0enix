@@ -78,12 +78,11 @@ const eeshanya = {
      in the README, scroll down to the fallback version below. -->
 
 <div align="center">
-  <!-- GitHub Stats (ALT HOST) -->
-  <img
-    width="49%"
-    src="https://git-hub-readme-stats-god.vercel.app/api?username=Code-Ph0enix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF"
-    alt="GitHub Stats"
-  />
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Code-Ph0enix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF&count_private=true&cache_seconds=1800" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Code-Ph0enix&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADB5&fire=FF6B6B&currStreakLabel=00ADB5" />
+
+
 
 
   <!-- GitHub Streak (NEW HOST) -->
