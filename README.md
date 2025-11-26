@@ -1,8 +1,16 @@
 <div align="center">
-
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00ADB5&center=true&vCenter=true&repeat=false&width=600&lines=Eeshanya+Joshi" alt="Eeshanya Joshi" />
-</h1>
+```
+ _____ _____ _____ _   _   ___   _   _ __   __  ___  
+|  ___| ____/ ____| | | | / _ \ | \ | |\ \ / / / _ \ 
+|  _| |  _| \___ \| |_| |/ /_\ \|  \| | \ V / / /_\ \
+| |___| |___ ___) |  _  ||  _  || |\  |  | |  |  _  |
+|_____|_____|____/|_| |_||_| |_||_| \_|  |_|  |_| |_|
+     _  ___  _____ _   _ ___                          
+    | |/ _ \/ ____| | | |_ _|                         
+ _  | | | | \___ \| |_| || |                          
+| |_| | |_| |___) |  _  || |                          
+ \___/ \___/|____/|_| |_|___|                         
+```
 
 </div>
 
