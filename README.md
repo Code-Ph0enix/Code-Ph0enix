@@ -1,6 +1,8 @@
 <div align="center">
 
-# ð„ð„ð'ð‡ð€ðð˜ð€ ð‰ðŽð'ð‡ð ˆ
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00ADB5&center=true&vCenter=true&repeat=false&width=600&lines=Eeshanya+Joshi" alt="Eeshanya Joshi" />
+</h1>
 
 </div>
 
