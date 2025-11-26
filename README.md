@@ -75,12 +75,14 @@ const eeshanya = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Code-Ph0enix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF&ring_color=00ADB5" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Ph0enix&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADB5&fire=FF6B6B&currStreakLabel=00ADB5&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Code-Ph0enix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF" alt="GitHub Stats"/>
+
+  <img width="49%" src="https://streak-stats.demolab.com?user=Code-Ph0enix&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADB5&fire=FF6B6B&currStreakLabel=00ADB5&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Ph0enix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Code-Ph0enix&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
 </div>
 
@@ -89,6 +91,7 @@ const eeshanya = {
 </div>
 
 ---
+
 
 ## 🏆 Achievements
 
