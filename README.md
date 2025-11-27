@@ -46,7 +46,7 @@ const eeshanya = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -159,36 +159,47 @@ const eeshanya = {
 </div>
 
 ---
+## 🚀 Learning & Growth Roadmap
 
-## 🎯 What I'm Working On
+graph TB
+A[🎯 Current Focus 2025 & 2026] --> B[💻 Full Stack Mastery]
+A --> C[🧠 DSA & Problem Solving]
+A --> D[🤖 AI/ML Innovation]
+A --> E[🏗️ System Design & Scale]
+B --> B1[Building Production Apps]
+B --> B2[Cloud & DevOps]
+B --> B3[API Security & Auth]
 
-```mermaid
-graph LR
-    A[Current Focus] --> B[Full Stack Development]
-    A --> C[DSA Mastery]
-    A --> D[AI/ML Projects]
-    B --> E[Building Scalable Apps]
-    C --> F[LeetCode Daily]
-    D --> G[Learning new paradigms]
-    
-    style A fill:#00ADB5,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#1a1a2e,stroke:#00ADB5,stroke-width:2px,color:#fff
-    style C fill:#1a1a2e,stroke:#00ADB5,stroke-width:2px,color:#fff
-    style D fill:#1a1a2e,stroke:#00ADB5,stroke-width:2px,color:#fff
-```
+C --> C1[LeetCode Daily]
+C --> C2[Advanced Algorithms]
+C --> C3[Competitive Programming]
 
-<div align="center">
+D --> D1[LLM Fine-tuning]
+D --> D2[Advanced RAG Systems]
+D --> D3[AI Agents & Automation]
 
-### 📚 Currently Learning
+E --> E1[Microservices Architecture]
+E --> E2[Load Balancing & Caching]
+E --> E3[HLD/LLD Patterns]
 
-| Technology | Progress | Priority |
-|------------|----------|----------|
-| DSA | ████████░░ 80% | 🔥 High |
-| Advanced AI/ML | ███████░░░ 70% | 🔥 High |
-| Full Stack | ██████░░░░ 60% | ⚡ Medium |
-| System Design | █████░░░░░ 50% | 🎯 Learning |
+style A fill:#6C63FF,stroke:#fff,stroke-width:3px,color:#fff
+style B fill:#2D3561,stroke:#6C63FF,stroke-width:2px,color:#fff
+style C fill:#2D3561,stroke:#6C63FF,stroke-width:2px,color:#fff
+style D fill:#2D3561,stroke:#6C63FF,stroke-width:2px,color:#fff
+style E fill:#2D3561,stroke:#6C63FF,stroke-width:2px,color:#fff
 
-</div>
+style B1 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
+style B2 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
+style B3 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
+style C1 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
+style C2 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
+style C3 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
+style D1 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
+style D2 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
+style D3 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
+style E1 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
+style E2 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
+style E3 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
 
 ---
 
