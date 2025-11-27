@@ -148,11 +148,11 @@ const eeshanya = {
 
 <div align="center">
 
-<a href="https://github.com/Code-Ph0enix">
+<a href="https://github.com/Code-Ph0enix/QUESTRAG">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Ph0enix&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF" />
 </a>
 
-<a href="https://github.com/Code-Ph0enix">
+<a href="https://github.com/Code-Ph0enix/FinEdge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Ph0enix&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF" />
 </a>
 
@@ -162,7 +162,7 @@ const eeshanya = {
 ## 🚀 Learning & Growth Roadmap
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/77439072-def5-494e-a095-94179cdf932c" alt="Learning Roadmap" width="750"/>
+  <img src="https://github.com/user-attachments/assets/77439072-def5-494e-a095-94179cdf932c" alt="Learning Roadmap" width="1000"/>
 </div>
 ---
 
