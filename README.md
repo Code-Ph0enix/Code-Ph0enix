@@ -160,47 +160,7 @@ const eeshanya = {
 
 ---
 ## 🚀 Learning & Growth Roadmap
-```mermaid
-graph TB
-A[🎯 Current Focus 2025 & 2026] --> B[💻 Full Stack Mastery]
-A --> C[🧠 DSA & Problem Solving]
-A --> D[🤖 AI/ML Innovation]
-A --> E[🏗️ System Design & Scale]
-B --> B1[Building Production Apps]
-B --> B2[Cloud & DevOps]
-B --> B3[API Security & Auth]
-
-C --> C1[LeetCode Daily]
-C --> C2[Advanced Algorithms]
-C --> C3[Competitive Programming]
-
-D --> D1[LLM Fine-tuning]
-D --> D2[Advanced RAG Systems]
-D --> D3[AI Agents & Automation]
-
-E --> E1[Microservices Architecture]
-E --> E2[Load Balancing & Caching]
-E --> E3[HLD/LLD Patterns]
-
-style A fill:#6C63FF,stroke:#fff,stroke-width:3px,color:#fff
-style B fill:#2D3561,stroke:#6C63FF,stroke-width:2px,color:#fff
-style C fill:#2D3561,stroke:#6C63FF,stroke-width:2px,color:#fff
-style D fill:#2D3561,stroke:#6C63FF,stroke-width:2px,color:#fff
-style E fill:#2D3561,stroke:#6C63FF,stroke-width:2px,color:#fff
-
-style B1 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
-style B2 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
-style B3 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
-style C1 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
-style C2 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
-style C3 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
-style D1 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
-style D2 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
-style D3 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
-style E1 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
-style E2 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
-style E3 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
-```
+https://github-production-user-asset-6210df.s3.amazonaws.com/122297998/519859609-77439072-def5-494e-a095-94179cdf932c.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251127%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251127T183608Z&X-Amz-Expires=300&X-Amz-Signature=cb811a0c477216692cd627ed7bba34bc1e3341ac286cea445c8435e7b5d3efd5&X-Amz-SignedHeaders=host
 ---
 
 ## 🤝 Connect With Me
