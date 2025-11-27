@@ -144,28 +144,14 @@ const eeshanya = {
 
 ---
 
-## 📌 Pinned Projects
 
-<div align="center">
-
-<a href="https://github.com/Code-Ph0enix/QUESTRAG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Ph0enix&repo=QUESTRAG&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF" />
-</a>
-
-<a href="https://github.com/Code-Ph0enix/FinEdge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Ph0enix&repo=FinEdge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF" />
-</a>
-
-</div>
-
-
----
 ## 🚀 Learning & Growth Roadmap
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/77439072-def5-494e-a095-94179cdf932c" alt="Learning Roadmap" width="1000"/>
+  <img src="https://github.com/user-attachments/assets/bd93dc02-8140-4d05-977f-e708a73d8a86" alt="Learning Roadmap" width="1000"/>
 </div>
 
+---
 
 ## 🤝 Connect With Me
 
@@ -195,3 +181,29 @@ const eeshanya = {
 
 ### 💖 Thanks for visiting!
 </div>
+
+---
+
+## 📌 Pinned Projects
+
+<div align="center">
+
+<a href="https://github.com/Code-Ph0enix/QUESTRAG">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Ph0enix&repo=QUESTRAG&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/Code-Ph0enix/FinEdge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Ph0enix&repo=FinEdge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/Code-Ph0enix/LuxuryHaven">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Ph0enix&repo=LuxuryHaven&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/Code-Ph0enix/Fake_News_Detection_System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Ph0enix&repo=VeriNews&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF" />
+</a>
+
+</div>
+
+
+---
