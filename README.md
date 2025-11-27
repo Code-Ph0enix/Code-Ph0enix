@@ -39,7 +39,12 @@ const eeshanya = {
 ```
 
 ---
+
+<div align = "center">
+  
 ## 🛠️ Tech Stack
+
+</div>
 
 <div align="center">
 
@@ -82,7 +87,11 @@ const eeshanya = {
 
 ---
 
+<div align = "center">
+
 ## 📊 GitHub Analytics
+
+</div>
 
 <!-- Fancy cards – use this first. If they still show "Error fetching resource"
      in the README, scroll down to the fallback version below. -->
