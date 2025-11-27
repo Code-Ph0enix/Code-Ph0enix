@@ -177,12 +177,6 @@ const eeshanya = {
 
 ---
 
-<div align="center">
-
-### 💖 Thanks for visiting!
-</div>
-
----
 
 ## 📌 Pinned Projects
 
@@ -199,7 +193,7 @@ const eeshanya = {
 <a href="https://github.com/Code-Ph0enix/LuxuryHaven">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Ph0enix&repo=LuxuryHaven&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF" />
 </a>
-<a href="https://github.com/Code-Ph0enix/Fake_News_Detection_System">
+<a href="https://github.com/Code-Ph0enix/VeriNews">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Ph0enix&repo=VeriNews&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF" />
 </a>
 
@@ -207,3 +201,9 @@ const eeshanya = {
 
 
 ---
+
+<div align="center">
+
+## 💖 Thanks for visiting!
+</div>
+
