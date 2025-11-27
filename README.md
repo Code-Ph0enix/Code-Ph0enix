@@ -22,6 +22,8 @@
 
 ---
 
+<div align = "center">
+  
 ## 🚀 About Me
 
 ```typescript
@@ -34,6 +36,7 @@ const eeshanya = {
     funFact: "I debug with console.log() and I'm not ashamed! 😅"
 };
 ```
+</div>
 ---
 ## 🛠️ Tech Stack
 
