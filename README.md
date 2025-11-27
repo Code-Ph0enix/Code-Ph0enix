@@ -160,7 +160,7 @@ const eeshanya = {
 
 ---
 ## 🚀 Learning & Growth Roadmap
-
+```mermaid
 graph TB
 A[🎯 Current Focus 2025 & 2026] --> B[💻 Full Stack Mastery]
 A --> C[🧠 DSA & Problem Solving]
@@ -200,7 +200,7 @@ style D3 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
 style E1 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
 style E2 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
 style E3 fill:#1a1a2e,stroke:#00ADB5,stroke-width:1px,color:#fff
-
+```
 ---
 
 ## 🤝 Connect With Me
