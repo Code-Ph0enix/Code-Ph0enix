@@ -160,7 +160,10 @@ const eeshanya = {
 
 ---
 ## 🚀 Learning & Growth Roadmap
-https://github-production-user-asset-6210df.s3.amazonaws.com/122297998/519859609-77439072-def5-494e-a095-94179cdf932c.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251127%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251127T183608Z&X-Amz-Expires=300&X-Amz-Signature=cb811a0c477216692cd627ed7bba34bc1e3341ac286cea445c8435e7b5d3efd5&X-Amz-SignedHeaders=host
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/77439072-def5-494e-a095-94179cdf932c" alt="Learning Roadmap" width="750"/>
+</div>
 ---
 
 ## 🤝 Connect With Me
