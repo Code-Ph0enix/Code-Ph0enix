@@ -25,6 +25,7 @@
 <div align = "center">
   
 ## 🚀 About Me
+</div>
 
 ```typescript
 const eeshanya = {
@@ -36,7 +37,7 @@ const eeshanya = {
     funFact: "I debug with console.log() and I'm not ashamed! 😅"
 };
 ```
-</div>
+
 ---
 ## 🛠️ Tech Stack
 
