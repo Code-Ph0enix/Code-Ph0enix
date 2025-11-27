@@ -176,42 +176,7 @@ const eeshanya = {
 </div>
 
 
----
 
-
-
-## 📌 Pinned Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-[![QUESTRAG](https://github-readme-stats.vercel.app/api/pin/?username=Code-Ph0enix&repo=QUESTRAG&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF)](https://github.com/Code-Ph0enix/QUESTRAG)
-
-</td>
-<td width="50%">
-
-[![FinEdge](https://github-readme-stats.vercel.app/api/pin/?username=Code-Ph0enix&repo=FinEdge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF)](https://github.com/Code-Ph0enix/FinEdge)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![LuxuryHaven](https://github-readme-stats.vercel.app/api/pin/?username=Code-Ph0enix&repo=LuxuryHaven&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF)](https://github.com/Code-Ph0enix/LuxuryHaven)
-
-</td>
-<td width="50%">
-
-[![VeriNews](https://github-readme-stats.vercel.app/api/pin/?username=Code-Ph0enix&repo=VeriNews&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF)](https://github.com/Code-Ph0enix/VeriNews)
-
-</td>
-</tr>
-</table>
-</div>
-
----
 
 <div align="center">
 
