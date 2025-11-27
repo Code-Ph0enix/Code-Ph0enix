@@ -34,46 +34,98 @@ const eeshanya = {
     funFact: "I debug with console.log() and I'm not ashamed! 😅"
 };
 ```
-
 ---
+<!-- SKILLS SECTION -->
 
-## 🛠️ Tech Stack
+<details>
+  <summary><b>💻 Languages</b></summary>
+  <br>
+  <p align="center">
+    ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+    ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  </p>
+</details>
 
-<div align="center">
+<details>
+  <summary><b>🎨 Frontend</b></summary>
+  <br>
+  <p align="center">
+    ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  </p>
+</details>
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+<details>
+  <summary><b>⚙️ Backend</b></summary>
+  <br>
+  <p align="center">
+    ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+    ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+    ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+    ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  </p>
+</details>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<details>
+  <summary><b>🧠 AI / ML / GenAI</b></summary>
+  <br>
+  <p align="center">
+    ![LangChain](https://img.shields.io/badge/LangChain-%2300A3E0.svg?style=for-the-badge&logoColor=white)
+    ![Transformers](https://img.shields.io/badge/Transformers-%23FFDC00.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+    ![FAISS](https://img.shields.io/badge/FAISS-%23000000.svg?style=for-the-badge&logoColor=white)
+    ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+    ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-%2300A67E.svg?style=for-the-badge)
+    ![RAG](https://img.shields.io/badge/RAG-%230071C5.svg?style=for-the-badge)
+  </p>
+</details>
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<details>
+  <summary><b>🗄 Databases</b></summary>
+  <br>
+  <p align="center">
+    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  </p>
+</details>
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<details>
+  <summary><b>🔧 Tools & Platforms</b></summary>
+  <br>
+  <p align="center">
+    ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+    ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+    ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+    ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  </p>
+</details>
 
-### 📊 Data & Analytics
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+<details>
+  <summary><b>🛰 Deployment / Cloud</b></summary>
+  <br>
+  <p align="center">
+    ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+    ![Render](https://img.shields.io/badge/Render-%230046FF.svg?style=for-the-badge&logo=render&logoColor=white)
+  </p>
+</details>
 
-</div>
+<details>
+  <summary><b>🧪 Testing / Payments</b></summary>
+  <br>
+  <p align="center">
+    ![Stripe](https://img.shields.io/badge/Stripe-%23646CFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
+  </p>
+</details>
 
 ---
 
@@ -135,7 +187,7 @@ const eeshanya = {
 
 ### 📈 Problem Solving Journey
 
-![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![LeetCode](https://img.shields.io/badge/LeetCode-Building%20Logic-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![DSA](https://img.shields.io/badge/DSA-Daily%20Practice-00ADB5?style=for-the-badge)
 ![Contests](https://img.shields.io/badge/Contests-Active-FF6B6B?style=for-the-badge)
 
@@ -168,7 +220,7 @@ graph LR
     A --> D[AI/ML Projects]
     B --> E[Building Scalable Apps]
     C --> F[LeetCode Daily]
-    D --> G[Learning TensorFlow]
+    D --> G[Learning new paradigms]
     
     style A fill:#00ADB5,stroke:#fff,stroke-width:2px,color:#fff
     style B fill:#1a1a2e,stroke:#00ADB5,stroke-width:2px,color:#fff
@@ -182,10 +234,10 @@ graph LR
 
 | Technology | Progress | Priority |
 |------------|----------|----------|
-| System Design | ████████░░ 80% | 🔥 High |
-| React Advanced | ███████░░░ 70% | 🔥 High |
-| Docker & K8s | ██████░░░░ 60% | ⚡ Medium |
-| AI/ML | █████░░░░░ 50% | 🎯 Learning |
+| DSA | ████████░░ 80% | 🔥 High |
+| Advanced AI/ML | ███████░░░ 70% | 🔥 High |
+| Full Stack | ██████░░░░ 60% | ⚡ Medium |
+| System Design | █████░░░░░ 50% | 🎯 Learning |
 
 </div>
 
@@ -215,26 +267,7 @@ graph LR
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Code-Ph0enix/Code-Ph0enix/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💖 Thanks for visiting!
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="100" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
 </div>
-
----
-
-
