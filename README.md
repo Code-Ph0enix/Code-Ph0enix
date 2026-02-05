@@ -114,9 +114,10 @@ const eeshanya = {
   <!-- Top Languages -->
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Ph0enix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&text_color=FFFFFF&langs_count=8"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Code-Ph0enix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&text_color=FFFFFF&langs_count=8"
     alt="Top Languages"
   />
+</div>
 
 <div align="center">
   <!-- Contribution Graph -->
