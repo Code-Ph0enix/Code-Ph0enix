@@ -161,7 +161,7 @@ const eeshanya = {
 ## 🚀 Learning & Growth Roadmap
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/bd93dc02-8140-4d05-977f-e708a73d8a86" alt="Learning Roadmap" width="1000"/>
+  <img src="./assets/roadmap.png" alt="Learning Roadmap" width="1000"/>
 </div>
 
 ---
