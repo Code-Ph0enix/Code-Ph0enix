@@ -136,7 +136,7 @@ const eeshanya = {
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Code-Ph0enix)
+![Trophies](https://github-trophies.vercel.app/?username=Code-Ph0enix&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
