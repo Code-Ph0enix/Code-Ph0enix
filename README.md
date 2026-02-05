@@ -141,15 +141,15 @@ const eeshanya = {
 
 ---
 
-## 💻 LeetCode Stats
+## 💻 Codeforces Stats
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Code__Phoenix?theme=nord&font=Ubuntu&ext=contest)](https://leetcode.com/u/Code__Phoenix/)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Code_Phoenix&theme=github_dark&force_username=true&border_color=00ADB5)](https://codeforces.com/profile/Code_Phoenix)
 
 ### 📈 Problem Solving Journey
 
-![LeetCode](https://img.shields.io/badge/LeetCode-Building%20Logic-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Codeforces](https://img.shields.io/badge/Codeforces-Building%20Logic-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-Daily%20Practice-00ADB5?style=for-the-badge)
 ![Contests](https://img.shields.io/badge/Contests-Active-FF6B6B?style=for-the-badge)
 
@@ -172,7 +172,7 @@ const eeshanya = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eeshanyajoshi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eeshanyajoshi@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Code__Phoenix/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Code_Phoenix)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Code-Ph0enix)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918169570762)
 
@@ -195,4 +195,3 @@ const eeshanya = {
 
 ## 💖 Thanks for visiting!
 </div>
-
